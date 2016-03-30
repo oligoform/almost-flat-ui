@@ -9,7 +9,7 @@ You are allowed to use these elements anywhere you want.
 
 ## Links:
 
-+ [Demo page](http://websymphony.net/almost-flat-ui/)
++ <del>[Demo page](http://websymphony.net/almost-flat-ui/)</del> (extern)
 
 ## Author
 **Amit Gaur**
